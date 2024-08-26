@@ -51,7 +51,11 @@ Refactoring code to improve readability and maintainability.
 These techniques helped me efficiently identify and resolve issues, and I plan to apply them in future projects to maintain high code quality.
 
 Innovation and Problem-Solving
-One of the challenges I encountered during this project was [briefly describe a challenge]. To overcome this, I [describe your innovative approach or solution]. This experience taught me [reflect on what you learned], which will be invaluable in future development efforts.
+One of the significant challenges I encountered during this project was debugging complex interactions between different parts of the code, especially when new features were added that affected existing functionality. To overcome this challenge, I systematically used breakpoints and debugging tools in Visual Studio to isolate and identify the source of issues. By closely monitoring the flow of data and execution of functions, I was able to pinpoint where the problems occurred.
+
+Additionally, I implemented unit testing to ensure that new features did not inadvertently break existing code. This proactive approach allowed me to catch and resolve issues early in the development process, which ultimately saved time and helped maintain the overall integrity of the application.
+
+This experience taught me the importance of a structured approach to debugging and the value of unit testing in maintaining code quality, lessons that I will carry forward into future projects.
 
 Conclusion
 This project showcases my ability to handle both front-end and back-end development tasks, as well as my problem-solving skills and attention to detail. I am proud of the work I have done and look forward to applying these skills in my future career.
